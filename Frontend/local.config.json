@@ -1,0 +1,4 @@
+{
+    "rootApiUrl": "http://localhost:8085",
+    "env": "local"
+}

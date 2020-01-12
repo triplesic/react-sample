@@ -1,0 +1,5 @@
+{
+    "presets": ["babel-preset-env", "react", "es2015", "stage-0"],
+    "plugins": ["syntax-object-rest-spread", "transform-object-rest-spread", "transform-async-to-generator"]
+
+}
