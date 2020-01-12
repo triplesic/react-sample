@@ -21,7 +21,7 @@
   "license": "private",
   "dependencies": {
     "axios": "^0.16.2",
-    "bootstrap": "3.3.7",
+    "bootstrap": "3.4.1",
     "compression": "^1.6.2",
     "immutability-helper": "^2.4.0",
     "is-js": "^0.1.1",
